@@ -171,7 +171,7 @@ How to Run
 
 Clone the repository:
 ```java
-git clone <https://github.com/omargamal768/java-kotlin-coding-interview.git>
+git clone https://github.com/omargamal768/java-kotlin-coding-interview.git
 ```
 Build the project:
 ```java
