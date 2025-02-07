@@ -158,13 +158,17 @@ src/
 │   │   │   ├── example/
 │   │   │   │   └── GameTest.java
 └── pom.xml
+
 Move.java: Defines the moves in the game.
 Result.java: Defines the possible results of each round.
 Game.java: Contains the logic for determining the result of each round.
 Main.java: Runs the game and displays the final results.
 GameTest.java: Contains unit tests for the Game class.
 pom.xml: Maven build file.
+
+
 How to Run
+
 Clone the repository:
 ```java
 git clone <repository-url>
